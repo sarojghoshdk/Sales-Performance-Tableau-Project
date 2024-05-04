@@ -65,3 +65,20 @@ Allow users to filter data by product information like category and subcategory 
 
 ## Customer Dashboard | 
 <img width="960" alt="image" src="https://github.com/sarojghoshdk/Sales-Performance-Tableau-Project/blob/main/Customer%20Dashboard.png">
+
+## Sales & Customer Dashboard Video | 
+
+
+https://github.com/sarojghoshdk/Sales-Performance-Tableau-Project/assets/115480098/5653879a-599a-41fc-bf99-a9d81854d785
+
+
+
+
+
+
+
+
+
+
+
+
