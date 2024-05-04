@@ -60,3 +60,8 @@ Represent the distribution of customers based on the number of orders they have 
 ### Data Filters
 Allow users to filter data by product information like category and subcategory and by location information like region, state and city.
 
+## Sales Dashboard | 
+<img width="960" alt="image" src="https://github.com/sarojghoshdk/Sales-Performance-Tableau-Project/blob/main/Sales%20Dashboard.png">
+
+## Customer Dashboard | 
+<img width="960" alt="image" src="https://github.com/sarojghoshdk/Sales-Performance-Tableau-Project/blob/main/Customer%20Dashboard.png">
